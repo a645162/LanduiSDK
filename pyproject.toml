@@ -1,7 +1,7 @@
 [project]
 name = "landui-sdk"
 version = "0.1.0"
-description = "蓝队云 (landui.com) 控制台非官方 API SDK —— 云服务器日常运维 / 安全组防火墙"
+description = "【非官方/第三方】蓝队云 (landui.com) 控制台 SDK —— 云服务器日常运维 / 安全组防火墙"
 requires-python = ">=3.10"
 dependencies = ["requests>=2.31"]
 

@@ -1,0 +1,19 @@
+NOTICE
+======
+
+This project ("LanduiSDK") is an **unofficial, third-party** implementation.
+
+It is NOT affiliated with, endorsed by, sponsored by, or in any way officially
+connected to 蓝队云 / Landui (landui.com, 云南蓝队云计算有限公司).
+
+* Interfaces implemented here were derived from observing the public web
+  front-end. They may change or break at any time.
+* "蓝队云", "Landui" and related names/logos are trademarks of their
+  respective owners and are used here only to describe interoperability.
+* Use this project only with accounts and servers that you own or are
+  authorized to manage, and comply with the provider's terms of service.
+* The authors accept no liability for any loss or damage arising from use of
+  this software.
+
+本文件为项目性质声明：本项目是**非官方第三方实现**，与蓝队云官方无任何隶属、
+合作或授权关系；“蓝队云 / Landui” 等名称仅用于说明兼容对象。

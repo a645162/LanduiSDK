@@ -264,7 +264,10 @@ def cmd_acl(args: argparse.Namespace) -> int:
 
 # --------------------------------------------------------------------- 入口
 def build_parser() -> argparse.ArgumentParser:
-    ap = argparse.ArgumentParser(prog="landui", description="蓝队云命令行运维")
+    ap = argparse.ArgumentParser(
+        prog="landui",
+        description="蓝队云命令行运维（非官方第三方实现，与蓝队云官方无关）",
+    )
     ap.add_argument("--auth", default=DEFAULT_AUTH_FILE, help="登录态文件")
     sub = ap.add_subparsers(dest="cmd", required=True)
 

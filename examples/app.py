@@ -299,7 +299,7 @@ class MainWindow(QMainWindow):
         # 登录态坏掉后进入「静默」：不再弹框、不再自动请求，直到手动登录成功
         self._auth_broken = False
         self._relogin_prompted = False
-        self.setWindowTitle("蓝队云运维台")
+        self.setWindowTitle("蓝队云运维台 · 非官方第三方")
         self.resize(1180, 700)
 
         central = QWidget()

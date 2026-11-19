@@ -1,4 +1,6 @@
-"""蓝队云 (landui.com) 非官方 SDK.
+"""蓝队云 (landui.com) 控制台 SDK —— **非官方第三方实现**。
+
+与蓝队云官方无任何隶属或授权关系；接口来自公开网页前端整理，可能随时变更。
 
     from landui_sdk import LanduiClient
 
