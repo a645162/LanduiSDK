@@ -1,0 +1,20 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+
+# 探索期的抓包与网页快照（含 Cookie / 真实 IP，绝不提交）
+captures/
+sources/
+*.jsonl
+
+# 本机登录态 / 密码 / 私钥（兜底规则，正常应在 ~/.config）
+auth.json
+credentials.json
+config.json
+*.pem
+*.key
+id_rsa*
+id_ed25519*
